@@ -1,0 +1,10 @@
+https://devcode.la
+git --version
+
+Configurar GIT
+git config --global user.name "ana"
+git config --global user.email abc.mera@yavirac.edu.ec
+git config --list
+
+Documentaciòn 
+https://git-scm.com/book/es/v1/Empezando
